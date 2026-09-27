@@ -4,7 +4,7 @@ Recipe overlay HUD for Minecraft 1.12.2 (Forge), driven by JEI, with optional
 Just Enough Calculation integration. Keyboard-first: it sits on top of normal play
 and never opens a screen or grabs the mouse.
 
-Download: CurseForge, or the jar from [Releases](../../releases).
+Download: [CurseForge](https://www.curseforge.com/minecraft/mc-mods/anr-ro), or the jar from [Releases](../../releases).
 
 ## Requirements
 - Minecraft 1.12.2, Forge 14.23.5.2860+
