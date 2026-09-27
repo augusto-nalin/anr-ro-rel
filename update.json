@@ -1,10 +1,11 @@
 {
   "homepage": "https://github.com/augusto-nalin/anr-ro-rel/releases",
   "promos": {
-    "1.12.2-latest": "0.113.0",
-    "1.12.2-recommended": "0.113.0"
+    "1.12.2-latest": "0.114.0",
+    "1.12.2-recommended": "0.114.0"
   },
   "1.12.2": {
-    "0.113.0": "- New settings screen: the main options up front, Advanced settings on their own page.\n- Overlay Position: drag the overlay where you want it and resize it by its edges.\n- Guided mode (the recipe tree and crafting guide) is now on by default.\n- New option Always Show Recipe Builder: turn it off to go straight to the guide for items whose recipe plan is already complete.\n- The Mods list now tells you when a new version is out.\n- Clearer key names in Controls; Shift+H (recipe builder) can now be rebound, and on-screen key buttons follow your bindings. The mod's keys only take a key while they have something to do, leaving it to other mods otherwise.\n- The guide's step trail ticks off only the steps that are really done."
+    "0.113.0": "- New settings screen: the main options up front, Advanced settings on their own page.\n- Overlay Position: drag the overlay where you want it and resize it by its edges.\n- Guided mode (the recipe tree and crafting guide) is now on by default.\n- New option Always Show Recipe Builder: turn it off to go straight to the guide for items whose recipe plan is already complete.\n- The Mods list now tells you when a new version is out.\n- Clearer key names in Controls; Shift+H (recipe builder) can now be rebound, and on-screen key buttons follow your bindings. The mod's keys only take a key while they have something to do, leaving it to other mods otherwise.\n- The guide's step trail ticks off only the steps that are really done.",
+    "0.114.0": "- New Scroll in / Scroll out keys: zoom the recipe tree, or step through the guide.\n- Fixed: the recipe tree shows every machine again (furnace, mod machines).\n- Fixed: potions brewed from other potions no longer show as raw.\n- The recipe tree lists every recipe of every machine, fluid-only ones included.\n- Fixed: the Exclude button shows again with Guided Mode on.\n- The recipe tree offers repairing the item as another way to get it.\n- Recipe tree: gold checks lead to the choices still to make."
   }
 }
