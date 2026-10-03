@@ -1,8 +1,8 @@
 {
   "homepage": "https://github.com/augusto-nalin/anr-ro-rel/releases",
   "promos": {
-    "1.12.2-latest": "0.120.0",
-    "1.12.2-recommended": "0.120.0"
+    "1.12.2-latest": "0.121.0",
+    "1.12.2-recommended": "0.121.0"
   },
   "1.12.2": {
     "0.113.0": "- New settings screen: the main options up front, Advanced settings on their own page.\n- Overlay Position: drag the overlay where you want it and resize it by its edges.\n- Guided mode (the recipe tree and crafting guide) is now on by default.\n- New option Always Show Recipe Builder: turn it off to go straight to the guide for items whose recipe plan is already complete.\n- The Mods list now tells you when a new version is out.\n- Clearer key names in Controls; Shift+H (recipe builder) can now be rebound, and on-screen key buttons follow your bindings. The mod's keys only take a key while they have something to do, leaving it to other mods otherwise.\n- The guide's step trail ticks off only the steps that are really done.",
@@ -12,6 +12,7 @@
     "0.117.0": "- The guide card sits beside the recipe tree instead of covering it.\n- The recipe tree opens at once and fills in as its recipes load.\n- Recipe tree: \"any of\" ingredients (any nitor, any glass pane) show as one row to pick from.\n- Recipe tree: Find Coloring Recipes puts the base item (yellow nitor, glass pane) in front of its colours and picks it for you.\n- Hide Confirmed Recipes: only the branch you're in stays open.\n- New installs start the overlay in the bottom-left corner.\n- Fixed: big recipe trees no longer drop the game to a few FPS.",
     "0.118.0": "- The guide card pops in over a chest or machine where there's something to do, and shows that machine's step.\n- Recipe tree: \"stop here\" on an item of an \"any of\" row uses it as it is.\n- Fixed: H brings the guide back while a crafting table or chest is open.",
     "0.119.0": "- Make several items at once: click the goggle again for more, right-click for fewer; the tree and guide plan them all together.\n- Fixed: a recipe tree could stay \"1 choice left\" on an item with only one recipe left.",
-    "0.120.0": "- Drag the goggle onto a recipe to make the item with that exact recipe, several recipes of one item side by side.\n- The goggle turns gold while you hold Shift and red while you hold Cmd / Ctrl, and its tooltip is easier to read."
+    "0.120.0": "- Drag the goggle onto a recipe to make the item with that exact recipe, several recipes of one item side by side.\n- The goggle turns gold while you hold Shift and red while you hold Cmd / Ctrl, and its tooltip is easier to read.",
+    "0.121.0": "- The recipe tree tells you what to do next, and the next item to choose pulses gold.\n- Internal clean-up, groundwork for other Minecraft versions.\n- In a chest, the guide marks the item you're making if you already have one stored.\n- Looking at a machine no longer changes the guide's step; turn on \"Look Picks Step\" in settings to get it back.\n- Finished steps stay done when you store or use their items (\"Steps Stay Done\" in settings).\n- Fixed: with Finished Items on Remove, the last item made now empties the list too.\n- Fixed: clicking the goggle on a one-recipe page adds the recipe shown."
   }
 }
