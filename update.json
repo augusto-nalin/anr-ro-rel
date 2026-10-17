@@ -3,8 +3,8 @@
   "promos": {
     "1.12.2-latest": "0.123.0",
     "1.12.2-recommended": "0.123.0",
-    "1.21.1-latest": "0.123.0",
-    "1.21.1-recommended": "0.123.0"
+    "1.21.1-latest": "0.124.0",
+    "1.21.1-recommended": "0.124.0"
   },
   "1.12.2": {
     "0.113.0": "- New settings screen: the main options up front, Advanced settings on their own page.\n- Overlay Position: drag the overlay where you want it and resize it by its edges.\n- Guided mode (the recipe tree and crafting guide) is now on by default.\n- New option Always Show Recipe Builder: turn it off to go straight to the guide for items whose recipe plan is already complete.\n- The Mods list now tells you when a new version is out.\n- Clearer key names in Controls; Shift+H (recipe builder) can now be rebound, and on-screen key buttons follow your bindings. The mod's keys only take a key while they have something to do, leaving it to other mods otherwise.\n- The guide's step trail ticks off only the steps that are really done.",
@@ -20,6 +20,7 @@
     "0.123.0": "- Now also on Minecraft 1.21.1 (NeoForge).\n- New name: ANR's Guided Crafting.\n- Thaumcraft's crucible and infusion recipes now count as Thaumcraft's own in the recipe tree."
   },
   "1.21.1": {
-    "0.123.0": "- Now also on Minecraft 1.21.1 (NeoForge).\n- New name: ANR's Guided Crafting.\n- Thaumcraft's crucible and infusion recipes now count as Thaumcraft's own in the recipe tree."
+    "0.123.0": "- Now also on Minecraft 1.21.1 (NeoForge).\n- New name: ANR's Guided Crafting.\n- Thaumcraft's crucible and infusion recipes now count as Thaumcraft's own in the recipe tree.",
+    "0.124.0": "- Recipe tree: an item made by several mods branches by mod first, so you can follow vanilla's or one mod's tree.\n- Cleaner recipe tree: no item counts, \"Current Recipe\" under the title, the next step just above the keys.\n- H keeps the guide card on screen while a recipe is still to pick.\n- Backspace on a tree's root takes the item off the list (Enter puts it back until you hide the tree).\n- A smelting countdown on the card after you load a furnace.\n- Clearer tree marks: undecided items are bare, Enter checks the whole branch, a gold \"!\" where a choice is left.\n- Only the selection is gold in the tree; no more blinking.\n- Press ? on the tree for a visual help panel.\n- After a goggle click, JEI's page shows your \"Items to Create\" list (click one for its recipes, right-click to strike it off); H shows / hides it.\n- Minecraft 1.21.1: the guide card stays on screen when you open a chest or machine.\n- Minecraft 1.21.1: the card and the tree draw over JourneyMap's minimap.\n- Minecraft 1.21.1: the gold \"\u00d7n\" marks on chest slots no longer cover the stack count.\n- Minecraft 1.21.1: \u2190 / \u2192 step through the guide again.\n- Clearing the item list starts the recipe over.\n- The card closes for good when you finish the last item in a crafting table."
   }
 }
