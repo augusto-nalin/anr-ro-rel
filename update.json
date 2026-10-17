@@ -1,8 +1,8 @@
 {
   "homepage": "https://github.com/augusto-nalin/anr-ro-rel/releases",
   "promos": {
-    "1.12.2-latest": "0.123.0",
-    "1.12.2-recommended": "0.123.0",
+    "1.12.2-latest": "0.124.0",
+    "1.12.2-recommended": "0.124.0",
     "1.21.1-latest": "0.124.0",
     "1.21.1-recommended": "0.124.0"
   },
@@ -17,7 +17,8 @@
     "0.120.0": "- Drag the goggle onto a recipe to make the item with that exact recipe, several recipes of one item side by side.\n- The goggle turns gold while you hold Shift and red while you hold Cmd / Ctrl, and its tooltip is easier to read.",
     "0.121.0": "- The recipe tree tells you what to do next, and the next item to choose pulses gold.\n- Internal clean-up, groundwork for other Minecraft versions.\n- In a chest, the guide marks the item you're making if you already have one stored.\n- Looking at a machine no longer changes the guide's step; turn on \"Look Picks Step\" in settings to get it back.\n- Finished steps stay done when you store or use their items (\"Steps Stay Done\" in settings).\n- Fixed: with Finished Items on Remove, the last item made now empties the list too.\n- Fixed: clicking the goggle on a one-recipe page adds the recipe shown.",
     "0.122.0": "- The goggle now sits beside each recipe in JEI, so you pick the exact recipe with one click (no more dragging).\n- New \"Group By Mod\" option (on): below a mod's recipe, the recipe tree keeps to that mod's and vanilla recipes.\n- Internal clean-up, groundwork for other Minecraft versions.\n- While recipes load, the item on the card spins like a loading wheel.\n- Fixed: with \"Steps Stay Done\", a chest marks what you're still missing again.\n- Fixed: Enter on a recipe still loading no longer errors.",
-    "0.123.0": "- Now also on Minecraft 1.21.1 (NeoForge).\n- New name: ANR's Guided Crafting.\n- Thaumcraft's crucible and infusion recipes now count as Thaumcraft's own in the recipe tree."
+    "0.123.0": "- Now also on Minecraft 1.21.1 (NeoForge).\n- New name: ANR's Guided Crafting.\n- Thaumcraft's crucible and infusion recipes now count as Thaumcraft's own in the recipe tree.",
+    "0.124.0": "- Recipe tree: an item made by several mods branches by mod first, so you can follow vanilla's or one mod's tree.\n- Cleaner recipe tree: no item counts, \"Current Recipe\" under the title, the next step just above the keys.\n- H keeps the guide card on screen while a recipe is still to pick.\n- Backspace on a tree's root takes the item off the list (Enter puts it back until you hide the tree).\n- A smelting countdown on the card after you load a furnace.\n- Clearer tree marks: undecided items are bare, Enter checks the whole branch, a gold \"!\" where a choice is left.\n- Only the selection is gold in the tree; no more blinking.\n- Press ? on the tree for a visual help panel.\n- After a goggle click, JEI's page shows your \"Items to Create\" list (click one for its recipes, right-click to strike it off); H shows / hides it.\n- Minecraft 1.21.1: the guide card stays on screen when you open a chest or machine.\n- Minecraft 1.21.1: the card and the tree draw over JourneyMap's minimap.\n- Minecraft 1.21.1: the gold \"\u00d7n\" marks on chest slots no longer cover the stack count.\n- Minecraft 1.21.1: \u2190 / \u2192 step through the guide again.\n- Clearing the item list starts the recipe over.\n- The card closes for good when you finish the last item in a crafting table."
   },
   "1.21.1": {
     "0.123.0": "- Now also on Minecraft 1.21.1 (NeoForge).\n- New name: ANR's Guided Crafting.\n- Thaumcraft's crucible and infusion recipes now count as Thaumcraft's own in the recipe tree.",
